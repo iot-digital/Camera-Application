@@ -1,0 +1,270 @@
+﻿@page
+@model ParkingDemo.Pages.CameraDashboard.IndexModel
+
+
+@{
+    ViewData["Title"] = "CameraDashboard";
+}
+
+<div class="d-flex align-items-center justify-content-start gap-4">
+    <div>
+        <h1 class="display-5" style="text-align:center;">Cameras Dashboard </h1>
+    </div>
+</div>
+
+<div class="check-box">
+    <label class="radio-label">
+        <input type="radio" name="displayOption" value="imageOnly" />
+        Only Image
+    </label>
+    <label class="radio-label">
+        <input type="radio" name="displayOption" value="imageWithTable" checked />
+        Image with Zone Data
+    </label>
+    <label class="radio-label">
+        <input type="radio" name="displayOption" value="tableOnly" />
+        Only Zone Data
+    </label>
+</div>
+
+<div id="dashboard@(Model.Device.Address)" class="default-container">
+
+    @foreach (var camera in Model.Cameras)
+    {
+        <div class="camera-card" id="ImageCard@(camera.Index)">
+            <img class="image-card" src="" />
+
+            <h4>@camera.Name</h4>
+
+            <table id="tableZone@(camera.Index)">
+
+                <thead>
+                    <tr>
+                        <th> </th>
+                        <th>
+                            <img src="/img/person.png" alt="PERSON" style="width:30px; height:30px; display:block; margin:auto; pointer-events:none" />
+                        </th>
+                        <th>
+                            <img src="/img/car.png" alt="CAR" style="width:30px; height:30px; display:block; margin:auto; pointer-events:none" />
+                        </th>
+                        <th>
+                            <img src="/img/truck.png" alt="TRUCK" style="width:30px; height:30px; display:block; margin:auto; pointer-events:none" />
+                        </th>
+                        <th>
+                            <img src="/img/bike.png" alt="MOTORCYCLE" style="width:30px; height:30px; display:block; margin:auto; pointer-events:none" />
+                        </th>
+                        <th>
+                            <img src="/img/misc.png" alt="MISC" style="width:30px; height:30px; display:block; margin:auto; pointer-events:none" />
+                        </th>
+                        
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @if (camera.Zones != null)
+                    {
+                        @foreach (var zone in camera.Zones)
+                        {
+                            <tr data-zone="@zone.Name">
+                                <td>@zone.Name</td>
+                                <td class="people">-</td>
+                                <td class="car">-</td>
+                                <td class="truck">-</td>
+                                <td class="bike">-</td>
+                                <td class="misc">-</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+
+            </table>
+
+        </div>
+    }
+
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="~/js/status.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            showImageAndTable();
+
+            $('input[name="displayOption"]').change(function () {
+                if (this.value === "imageOnly") {
+                    showImageOnly();
+                } else if (this.value === "imageWithTable") {
+                    showImageAndTable();
+                } else if (this.value === "tableOnly") {
+                    showTableOnly();
+                }
+            });
+
+            $('.camera-card img').click(function () {
+                openFullScreenImage(this);
+            });
+
+            function showImageOnly() {
+                $('.image-card').show();
+                $('[id^="tableZone"]').hide();
+            }
+
+            function showImageAndTable() {
+                $('.image-card').show();
+                $('[id^="tableZone"]').show();
+
+                $('.camera-card').each(function () {
+                    var cameraId = $(this).attr('id').replace('IamgeCard', '');
+                    var imgPath = cameraImagePaths[cameraId];
+
+
+                    if(imgPath) {
+                        $(this).find('.image-card').attr('src',imgPath);
+                    }
+                });
+            }
+
+            function showTableOnly() {
+                console.log("showTableOnly function called");
+                $('[id^="tableZone"]').show();
+                $('.image-card').hide();
+            }
+
+            function openFullScreenImage(image) {
+                var modal = $('<div class="image-modal"></div>');
+                var modalImg = $('<img class="modal-content">');
+                modalImg.attr('src', $(image).attr('src'));
+
+                modal.append(modalImg);
+                modal.click(function () {
+                    $(this).remove();
+                });
+
+                $('body').append(modal);
+            }
+        });
+    </script>
+}
+
+<style>
+    .camera-name {
+        margin-right: 20px; 
+    }
+
+
+    .status-circle {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .display-4 {
+        padding-top: 2%;
+        font-family: system-ui;
+        width: 100%;
+    }
+
+    .radio-label {
+        margin: 0.5rem;
+        justify-content: center;
+    }
+
+    .label {
+        display: inline-block;
+        justify-content: center;
+    }
+
+    .check-box {
+        padding-left: 32%;
+        padding-top: 3%;
+    }
+
+    .camera-card {
+        padding: 15px;
+        text-align: center;
+        margin: 16px;
+        border-radius: 8px;
+        position: relative;
+        overflow: hidden;
+        max-width: 450px;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .default-container {
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+    }
+
+    .h3 {
+        font-size: calc(1.3rem + .6vw);
+    }
+
+    .camera-card img {
+        max-width: 69%;
+        height: auto;
+        width: 69%;
+        object-fit: contain;
+        margin-bottom: 1rem;
+        margin-top: 20px;
+        opacity: 0.9;
+        cursor: pointer;
+    }
+
+    .image-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 9999;
+    }
+
+    .modal-content {
+        max-width: 100%;
+        max-height: 100%;
+        cursor: pointer;
+        object-fit: scale-down;
+        background-color: rgba(0,0,0,.15);
+        background-clip: padding-box;
+        border: 1px solid #252121;
+    }
+
+
+    .tableZone {
+        width: 100%;
+        margin-top: 1rem;
+        overflow-x: auto;
+    }
+
+    .table {
+        display: table;
+        border-collapse: separate;
+        box-sizing: border-box;
+        text-indent: initial;
+        border-spacing: 2px;
+        border-color: gray;
+    }
+
+    th, td {
+        border: 1px solid #ccc;
+        padding: 6px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 500;
+    }
+</style>

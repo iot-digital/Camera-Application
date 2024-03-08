@@ -1,0 +1,16 @@
+2024-02-14 09:55:48.020 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 09:55:48.391 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 09:55:49.438 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 09:55:52.715 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 09:56:00.173 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 09:56:16.127 +05:30 [ERR] An error occurred using the connection to database 'AppDB' on server ''.
+2024-02-14 12:30:30.360 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-14 12:30:30.417 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)

@@ -1,0 +1,154 @@
+﻿@page "{id:int?}"
+@model ParkingDemo.Pages.Logs.IndexModel
+@using ParkingDemo.Utilities
+
+@{
+    ViewData["Title"] = "Parking Logs";
+    var slots = ViewData["slots"] as SelectList;
+}
+
+<h1 class="display-5">Parking Logs</h1>
+
+<div class="d-flex align-items-end justify-content-between my-3">
+    <form method="post" class="d-flex justify-content-between align-items-end gap-3 w-100">
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Start Date</label>
+            <input asp-for="StartDate" class="form-control form-control-sm me-3" type="datetime-local" placeholder="Start Date">
+        </div>
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">End Date</label>
+            <input asp-for="EndDate" class="form-control form-control-sm me-3" type="datetime-local" placeholder="End Date">
+        </div>
+       
+
+
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Select Device</label>
+
+
+            @*@*<select asp-for="ParkingSlotId" class="form-select form-select-sm" asp-items="@(new SelectList(Model.DevicesList, "Id", "Name", Model.DevicesList))">*@
+
+            <select asp-for="ParkingSlotId" class="form-select form-select-sm" asp-items="@(Model.DevicesList != null ? new SelectList(Model.DevicesList, "Id", "Name", Model.DevicesList) : new SelectList(Enumerable.Empty<SelectListItem>()))">
+
+                <option selected="selected" value="">Select Device</option>
+            </select>
+
+
+
+        </div>
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Search</label>
+            <input asp-for="Search" class="form-control form-control-sm me-2" type="search" placeholder="Search...">
+        </div>
+
+        <button asp-page-handler="Filter" class="btn btn-sm btn-success" style="height:30px;min-width:80px;" type="submit">FILTER</button>
+        <button asp-page-handler="ClearFilter" class="btn btn-sm btn-danger" style="height:30px;min-width:80px;">CLEAR</button>
+
+        <input hidden name="PrevPageNumber" value="@Model.PrevPageNumber" />
+        <input hidden name="NextPageNumber" value="@Model.NextPageNumber" />
+
+        <input hidden id="localeUtcOffset" name="LocaleUtcOffset" value="@Model.LocaleUtcOffset" />
+
+        <input type="submit" asp-page-handler="FilterPrev" class="btn btn-sm btn-outline-primary @(Model.IsPrevPageDisabled ? "d-none":"")"
+               style="height:30px;min-width:80px;" value="< PREV" />
+
+        <input type="submit" asp-page-handler="FilterNext" class="btn btn-sm btn-outline-primary @(Model.IsNextPageDisabled ? "d-none":"")"
+               style="height:30px;min-width:80px;" value="NEXT >" />
+    </form>
+</div>
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].DeviceName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].Camera)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].Parameters)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logs[0].Timestamp)
+            </th>
+            @if (User.IsInRole(Constants.ADMIN))
+            {
+                <th></th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Logs)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeviceName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Camera)
+                </td>                
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @{
+                        string param = item.Parameters ?? string.Empty;
+                        if (string.IsNullOrEmpty(param))
+                        {
+                            param = "NULL";
+                        }
+                        else if (param.StartsWith("{"))
+                        {
+                            var formatedParam = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, string>>(param);
+                            var json = System.Text.Json.JsonSerializer.Serialize(
+                            formatedParam,
+                            new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
+                            param = json.Substring(1, json.Length - 2);
+                        }
+                    }
+                    <div class="text-truncate" style="max-width:200px;"
+                         data-bs-toggle="tooltip" data-bs-placement="top"
+                         data-bs-title="@param">
+                        @param
+                    </div>
+
+                </td>
+                <td class="date-time">
+                    @{
+                        var timestamp = item.Timestamp.ToString("dd-MM-yyyy HH:mm:ss");
+                    }
+                    @timestamp
+                </td>
+
+                @if (User.IsInRole(Constants.ADMIN))
+                {
+                    <td>
+                        <form method="post">
+                            <input hidden name="id" type="number" value="@item.Id" />
+                            <button asp-page-handler="Delete" type="submit" class="btn btn-link p-0" style="line-height:16px;">DELETE</button>
+                        </form>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p class="lead">Pages (@Model.PageNumber of @Model.NumberOfPages)</p>
+
+@section Scripts{
+    <script>
+        document.getElementById('localeUtcOffset').value = new Date().getTimezoneOffset();
+    </script>
+}
+               

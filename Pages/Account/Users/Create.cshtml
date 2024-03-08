@@ -1,0 +1,95 @@
+﻿@page
+@model ParkingDemo.Pages.Account.Users.CreateModel
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h1 class="display-5">User - Create</h1>
+<hr />
+<div class="row">
+    <form method="post">
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.FirstName" class="control-label"></label>
+                    <input asp-for="ViewModel.FirstName" class="form-control" />
+                    <span asp-validation-for="ViewModel.FirstName" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.LastName" class="control-label"></label>
+                    <input asp-for="ViewModel.LastName" class="form-control" />
+                    <span asp-validation-for="ViewModel.LastName" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Username" class="control-label"></label>
+                    <input asp-for="ViewModel.Username" class="form-control" />
+                    <span asp-validation-for="ViewModel.Username" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Password" class="control-label"></label>
+                    <input asp-for="ViewModel.Password" class="form-control" />
+                    <span asp-validation-for="ViewModel.Password" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Email" class="control-label"></label>
+                    <input asp-for="ViewModel.Email" class="form-control" />
+                    <span asp-validation-for="ViewModel.Email" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.PhoneNumber" class="control-label"></label>
+                    <input asp-for="ViewModel.PhoneNumber" class="form-control" />
+                    <span asp-validation-for="ViewModel.PhoneNumber" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 mb-3">
+                <div class="form-group">
+                    <label class="mb-2">Assign Roles</label>
+                    @for (int i = 0; i < Model.ViewModel.SelectedRoles.Count; i++)
+                    {
+                        <div class="form-check">
+                            <input hidden asp-for="ViewModel.SelectedRoles[i].Id" />
+                            <input hidden asp-for="ViewModel.SelectedRoles[i].Name" />
+                            <input class="form-check-input" type="checkbox" asp-for="ViewModel.SelectedRoles[i].IsSelected">
+                            <label class="form-check-label" asp-for="ViewModel.SelectedRoles[i].IsSelected">
+                                @Model.ViewModel.SelectedRoles[i].Name
+                            </label>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="CREATE" class="btn btn-sm btn-primary" />
+            <a asp-page="Index" class="btn btn-sm btn-outline-primary ms-2">BACK TO LIST</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

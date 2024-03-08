@@ -1,0 +1,85 @@
+﻿@page
+@model ParkingDemo.Pages.IndexModel
+@{
+    ViewData["Title"] = "Parking Management";
+}
+
+<style>
+    .remove-margin h6 {
+        margin-bottom: 0 !important;
+    }
+
+    .card-hover:hover {
+        transform: translateY(-5px);
+        transition: all 0.3s;
+        box-shadow: 0 4px 8px rgba(25, 21, 0, 1.52);
+    }
+</style>
+
+<div class="container">
+    <h1 class="display-4 mb-4 text-center">Parking Lot Dashboard</h1>
+
+    <div class="d-flex flex-wrap gap-4 align-content-start justify-content-center">
+
+        <div class="card-hover box-shadow-card border p-0 rounded" style="width: 360px; margin: 4px; background: #E3F2FD;">
+            <a asp-page="/Dashboard/Index" style="text-decoration: none; color: black;">
+                <div class="dashboard-card-bg remove-margin">
+                    <h6 class="mb-3 mt-2 text-limit text-center" style="font-size: 1.5rem">Infrastructure</h6>
+                    <p class="text-muted text-center mb-3" style="font-size: 1rem">Devices to Control & Monitor</p>
+                    <div class="row text-center">
+                        <div class="col">
+                            <h1 class="display-5 mb-0" style="color: black">@Model.DeviceCount</h1>
+                            <p class="lead mb-3 mt-2" style="font-size: 1.2rem">Devices</p>
+                        </div>
+                        <div class="col">
+                            <h1 class="display-5 mb-0" style="color: black">0</h1>
+                            <p class="lead mb-3 mt-2" style="font-size: 1.2rem">Gateway</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="card-hover box-shadow-card border p-0 rounded" style="width: 360px; margin: 4px; background: #EDE7F6;">
+            <a asp-page="/Account/Users/Index" style="text-decoration: none; color: black;">
+                <div class="dashboard-card-bg remove-margin">
+                    <h6 class="mb-3 mt-2 text-limit text-center" style="font-size: 1.5rem">Users</h6>
+                    <p class="text-muted text-center mb-3" style="font-size: 1rem">People Using Platform</p>
+                    <div class="row text-center">
+                        <div class="col">
+                            <h1 class="display-5 mb-0" style="color: black">@Model.UserCount</h1>
+                            <p class="lead mb-3 mt-2" style="font-size: 1.2rem">Users</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="card-hover box-shadow-card border p-0 rounded" style="width: 360px; margin: 4px; background: #E3F2FD;">
+            <a asp-page="/Devices/Index" style="text-decoration: none; color: black;">
+                <div class="dashboard-card-bg remove-margin">
+                    <h6 class="mb-3 mt-2 text-limit text-center" style="font-size: 1.5rem">Devices & Camera</h6>
+                    <p class="text-muted text-center mb-3" style="font-size: 1rem">Devices Being Used In Platform</p>
+                    <div class="row text-center">
+                        <div class="col">
+                            <h1 class="display-5 mb-0" style="color: black">@Model.DeviceCount</h1>
+                            <p class="lead mb-3 mt-2" style="font-size: 1.2rem">Devices</p>
+                        </div>
+                        <div class="col">
+                            <h1 class="display-5 mb-0" style="color: black">@Model.CameraCount</h1>
+                            <p class="lead mb-3 mt-2" style="font-size: 1.2rem">Cameras</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    </div>
+
+
+</div>
+
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>
+    <script src="~/js/status.js" asp-append-version="true"></script>
+}

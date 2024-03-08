@@ -1,0 +1,90 @@
+﻿@page
+@model ParkingDemo.Pages.Cameras.IndexModel
+@using ParkingDemo.Utilities
+@{
+    ViewData["Title"] = "Cameras";
+}
+
+<h1 class="display-5 mb-">Cameras</h1>
+<a asp-page="Create" class="btn btn-sm btn-primary">CREATE A CAMERA</a>
+
+@if (Model.Cameras != null && Model.Cameras?.Count() > 0)
+{
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Attached To
+                </th>
+                <th>
+                    Resolution
+                </th>
+                <th>
+                    Zones
+                </th>
+                <th>
+                    Address
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model.Cameras)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @item.Device?.Name
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Resolution)
+                    </td>
+                    <td>
+                        @* @(item.Zones != null ? string.Join(", ", item.Zones) : "-") *@
+
+                        @{
+                            string param = item.Zones != null ? string.Join(", ", item.Zones) : "-";
+                        }
+                        <div class="text-truncate" style="max-width:200px;" 
+                            data-bs-toggle="tooltip" data-bs-placement="top"
+                            data-bs-title="@param">
+                            @param
+                        </div>
+                    </td>
+                    <td>
+                        @item.Device?.Address
+                    </td>
+                    <td>
+                        @if (User.IsInRole(Constants.ADMIN))
+                        {
+                            <a asp-page="Edit" asp-route-id="@item.Id">EDIT</a>
+
+                            <form method="post" asp-page-handler="Delete" asp-route-id="@item.Id" onsubmit="return confirm('Are you sure you want to delete this camera?');" class="d-inline">
+                                <button type="submit" class="btn btn-outline-danger btn-sm">DELETE</button>
+                            </form>
+                        }                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <hr />
+
+    <p class="lead">There are no Cameras to display</p>
+
+    <a asp-page="Create" class="btn btn-sm btn-link">Create A New Camera</a>
+}
+
+
+
+@* <script src="path/to/jquery.min.js"></script>
+<script src="path/to/bootstrap.bundle.min.js"></script> *@

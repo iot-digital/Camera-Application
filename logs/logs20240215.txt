@@ -1,0 +1,352 @@
+2024-02-15 11:40:46.880 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:40:46.941 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:42:46.643 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:42:46.699 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:44:19.247 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:44:19.308 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:52:54.167 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 11:52:54.229 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:01:10.064 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:01:10.123 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:02:27.638 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:02:27.699 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:04:04.219 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:04:04.280 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:05:21.371 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:05:21.417 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:06:32.467 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:06:32.516 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:12:40.153 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:12:40.194 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:13:51.091 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:13:51.132 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:15:04.086 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:15:04.118 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:22:29.051 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:22:29.100 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:23:41.289 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:23:41.338 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:24:55.959 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:24:56.021 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:26:10.855 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:26:10.911 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:27:55.152 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:27:55.203 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:29:20.248 +05:30 [ERR] BackgroundService failed
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 12:29:20.303 +05:30 [FTL] The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+System.InvalidOperationException: Nullable object must have a value.
+   at System.Nullable`1.get_Value()
+   at ParkingDemo.Services.HeartbeatService.ExecuteAsync(CancellationToken stoppingToken) in C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\Services\HeartBeatService.cs:line 36
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+2024-02-15 15:15:45.280 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No page named '/Users/Index' matches the supplied values.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.RedirectToPageResultExecutor.ExecuteAsync(ActionContext context, RedirectToPageResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 15:23:20.267 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No page named '/Users/Index' matches the supplied values.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.RedirectToPageResultExecutor.ExecuteAsync(ActionContext context, RedirectToPageResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 15:25:45.513 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No page named '/Users/Index' matches the supplied values.
+   at Microsoft.AspNetCore.Mvc.Infrastructure.RedirectToPageResultExecutor.ExecuteAsync(ActionContext context, RedirectToPageResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:01:39.021 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:04:02.002 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:04:44.706 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:04:57.182 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:26:22.487 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:42:22.426 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+ParkingDemo.Controllers.MessageDataController.Post (ParkingDemo)
+ParkingDemo.Controllers.HeartBeatController.Post (ParkingDemo)
+/CameraDashboard/Index
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:47:32.943 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Patterns.RoutePatternException: The literal section 'CameraDashboard?id' is invalid. Literal sections cannot contain the '?' character.
+   at Microsoft.AspNetCore.Routing.Patterns.RoutePatternParser.Parse(String pattern)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.AddEndpoints(List`1 endpoints, HashSet`1 routeNames, ActionDescriptor action, IReadOnlyList`1 routes, IReadOnlyList`1 conventions, IReadOnlyList`1 groupConventions, IReadOnlyList`1 finallyConventions, IReadOnlyList`1 groupFinallyConventions, Boolean createInertEndpoints, RoutePattern groupPrefix)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerActionEndpointDataSource.CreateEndpoints(RoutePattern groupPrefix, IReadOnlyList`1 actions, IReadOnlyList`1 conventions, IReadOnlyList`1 groupConventions, IReadOnlyList`1 finallyConventions, IReadOnlyList`1 groupFinallyConventions)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.UpdateEndpoints()
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.Initialize()
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.GetChangeToken()
+   at Microsoft.Extensions.Primitives.ChangeToken.OnChange(Func`1 changeTokenProducer, Action changeTokenConsumer)
+   at Microsoft.AspNetCore.Routing.CompositeEndpointDataSource.CreateChangeTokenUnsynchronized(Boolean collectionChanged)
+   at Microsoft.AspNetCore.Routing.CompositeEndpointDataSource.EnsureChangeTokenInitialized()
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-02-15 16:47:36.553 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Patterns.RoutePatternException: The literal section 'CameraDashboard?id' is invalid. Literal sections cannot contain the '?' character.
+   at Microsoft.AspNetCore.Routing.Patterns.RoutePatternParser.Parse(String pattern)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.AddEndpoints(List`1 endpoints, HashSet`1 routeNames, ActionDescriptor action, IReadOnlyList`1 routes, IReadOnlyList`1 conventions, IReadOnlyList`1 groupConventions, IReadOnlyList`1 finallyConventions, IReadOnlyList`1 groupFinallyConventions, Boolean createInertEndpoints, RoutePattern groupPrefix)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerActionEndpointDataSource.CreateEndpoints(RoutePattern groupPrefix, IReadOnlyList`1 actions, IReadOnlyList`1 conventions, IReadOnlyList`1 groupConventions, IReadOnlyList`1 finallyConventions, IReadOnlyList`1 groupFinallyConventions)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.UpdateEndpoints()
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.Initialize()
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointDataSourceBase.GetChangeToken()
+   at Microsoft.Extensions.Primitives.ChangeToken.OnChange(Func`1 changeTokenProducer, Action changeTokenConsumer)
+   at Microsoft.AspNetCore.Routing.CompositeEndpointDataSource.CreateChangeTokenUnsynchronized(Boolean collectionChanged)
+   at Microsoft.AspNetCore.Routing.CompositeEndpointDataSource.EnsureChangeTokenInitialized()
+   at Microsoft.AspNetCore.Routing.DataSourceDependentCache`1.Initialize()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DataSourceDependentMatcher..ctor(EndpointDataSource dataSource, Lifetime lifetime, Func`1 matcherBuilderFactory)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcherFactory.CreateMatcher(EndpointDataSource dataSource)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.InitializeCoreAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.<Invoke>g__AwaitMatcher|8_0(EndpointRoutingMiddleware middleware, HttpContext httpContext, Task`1 matcherTask)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)

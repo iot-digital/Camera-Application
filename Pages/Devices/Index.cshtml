@@ -1,0 +1,125 @@
+﻿@page
+@model ParkingDemo.Pages.Devices.IndexModel
+@using ParkingDemo.Models
+@using ParkingDemo.Utilities
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<h1 class="display-5 mb-">Devices</h1>
+<a asp-page="Create" class="btn btn-sm btn-primary">CREATE A DEVICE</a>
+
+@if (Model.Devices != null && Model.Devices?.Count() > 0)
+{
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th>
+                    Name/Model
+                </th>
+                <th>
+                    Location
+                </th>
+                <th>
+                    Network
+                </th>
+                <th>
+                    Node
+                </th>
+                <th>
+                    Power Type
+                </th>
+                <th>
+                    Power %
+                </th>
+                <th>
+                    Last Value
+                </th>
+                <th>
+                    Last Ping
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model.Devices)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Location)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Network)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Node)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PowerInputType)
+                    </td>
+                    <td>
+                        @(item.PowerState < 0 || item.PowerState > 100 || item.PowerInputType == PowerInputType.Plugged ? "100 %" : $"{item.PowerState} %")
+                    </td>
+                    <td>
+                        @{
+                            string param = item.LastValue ?? "-";
+                            if (!string.IsNullOrEmpty(param) && param.StartsWith("{"))
+                            {
+                                var formattedParam = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, string>>(param);
+                                var json = System.Text.Json.JsonSerializer.Serialize(
+                                formattedParam,
+                                new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
+                                param = json.Substring(1, json.Length - 2);
+                            }
+                            if (param.Length == 0)
+                            {
+                                param = "-";
+                            }
+                        }
+                        <div class="text-truncate" style="max-width:200px;"
+                             data-bs-toggle="tooltip" data-bs-placement="top"
+                             data-bs-title="@param">
+                            @param
+                        </div>
+
+                    </td>
+                    <td class="date-time">
+                            @{
+                                var lastAlivePing = "-";
+                                if (item.LastAlivePing != null && item.LastAlivePing != DateTime.MinValue)
+                                {
+                                lastAlivePing = item.LastAlivePing.Value.ToString("dd-MM-yyyy HH:mm:ss");
+                            }
+                            }
+                            @lastAlivePing
+                    </td>
+                    <td>
+                        @if (User.IsInRole(Constants.ADMIN))
+                        {
+                            <a asp-page="Edit" asp-route-id="@item.Id">EDIT</a>
+
+                            <a asp-page="Configure" asp-route-id="@item.Id">CONFIG</a>
+
+                            <form method="post" asp-page-handler="Delete" asp-route-id="@item.Id" onsubmit="return confirm('Are you sure you want to delete this device?');" class="d-inline">
+                                <button type="submit" class="btn btn-outline-danger btn-sm">DELETE</button>
+                            </form>
+                        }
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <hr />
+
+    <p class="lead">There are no Devices to display</p>
+
+    <a asp-page="Create" class="btn btn-sm btn-link">Create A New Device</a>
+}

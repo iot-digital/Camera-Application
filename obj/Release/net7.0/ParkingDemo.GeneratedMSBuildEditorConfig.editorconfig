@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ParkingDemo
+build_property.RootNamespace = ParkingDemo
+build_property.ProjectDir = C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSb2xlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSb2xlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSb2xlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSb2xlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxVc2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxVc2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxVc2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Account/Users/PasswordChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxVc2Vyc1xQYXNzd29yZENoYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/CameraDashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/CameraLogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhTG9nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Cameras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Cameras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Cameras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtZXJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Devices/Configure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xDb25maWd1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Devices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Devices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Devices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Logs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nandhini.s/Downloads/Camera-Application/Camera-Application-Parking/Camera-Application-parking/Camera-Application-parking/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m4gtc7b053

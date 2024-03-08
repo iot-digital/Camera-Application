@@ -1,0 +1,203 @@
+﻿@page "{id:int?}"
+@model ParkingDemo.Pages.CameraLogs.IndexModel
+@using ParkingDemo.Utilities
+@{
+    ViewData["Title"] = "Camera Logs";
+    //var cameras = Model.CamerasList.Select(c => c.Name) as SelectList;
+}
+
+<h1 class="display-5">Camera Logs</h1>
+
+<hr />
+<div class="d-flex align-items-end justify-content-between my-3">
+
+    <form method="post" class="d-flex justify-content-between align-items-end gap-3 w-100">
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Start Date</label>
+            <input asp-for="StartDate" class="form-control form-control-sm me-3" type="datetime-local" placeholder="Start Date">
+        </div>
+
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">End Date</label>
+            <input asp-for="EndDate" class="form-control form-control-sm me-3" type="datetime-local" placeholder="End Date">
+        </div>
+
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Select Device</label>
+
+
+            <select asp-for="ParkingSlotId" class="form-select form-select-sm" asp-items="@(Model.DevicesList != null ? new SelectList(Model.DevicesList, "Id", "Name", Model.DevicesList) : new SelectList(Enumerable.Empty<SelectListItem>()))">
+
+                <option selected="selected" value="">Select Device</option>
+            </select>
+
+        </div>        
+
+        <div class="d-flex flex-column w-100">
+            <label class="me-2" style="font-size:10px;">Search</label>
+            <input asp-for="Search" class="form-control form-control-sm me-2" type="search" placeholder="Search...">
+        </div>
+
+        <button asp-page-handler="Filter" class="btn btn-sm btn-success" style="height:30px;min-width:80px;" type="submit">FILTER</button>
+        <button asp-page-handler="ClearFilter" class="btn btn-sm btn-danger" style="height:30px;min-width:80px;">CLEAR</button>
+
+        <input hidden name="PrevPageNumber" value="@Model.PrevPageNumber" />
+        <input hidden name="NextPageNumber" value="@Model.NextPageNumber" />
+
+        <input hidden id="localeUtcOffset" name="LocaleUtcOffset" value="@Model.LocaleUtcOffset" />
+
+        <input type="submit" asp-page-handler="FilterPrev" class="btn btn-sm btn-outline-primary @(Model.IsPrevPageDisabled ? "d-none":"")"
+               style="height:30px;min-width:80px;" value="< PREV" />
+
+        <input type="submit" asp-page-handler="FilterNext" class="btn btn-sm btn-outline-primary @(Model.IsNextPageDisabled ? "d-none":"")"
+               style="height:30px;min-width:80px;" value="NEXT >" />
+    </form>
+
+</div>
+
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].DeviceName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].CameraName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].ZoneId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].PersonCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].CarCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].TruckCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].BikeCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].MiscCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CameraLogs[0].Timestamp)
+            </th>
+            @if (User.IsInRole(Constants.ADMIN))
+            {
+                <th></th>
+            }
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.CameraLogs)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeviceName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CameraName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ZoneId)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CarCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TruckCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BikeCount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MiscCount)
+                </td>
+@*                 <td>
+                    @Html.DisplayFor(modelItem => item.Timestamp)
+                </td> *@
+                <td class="date-time">
+                    @{
+                        var timestamp = item.Timestamp.ToString("dd-MM-yyyy HH:mm:ss");
+                    }
+                    @timestamp
+                </td>
+                <td>
+                    <a href="#" onclick="openModal('@item.ImagePath')"> View Image </a>
+                </td>
+                
+                @if (User.IsInRole(Constants.ADMIN))
+                {
+                    <td>
+                        <form method="post">
+                            <input hidden name="id" type="number" value="@item.Id" />
+                            <button asp-page-handler="Delete" type="submit" class="btn btn-link p-0" style="line-height:16px;">DELETE</button>
+                        </form>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<p class="lead">Pages (@Model.PageNumber of @Model.NumberOfPages)</p>
+
+<div id="myModal" class="modal">
+    <div class="modal-content" style="margin:auto; display:block; width:80%; max-width:700px">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img id="modalImage" src="" alt="Image" style="width:100%; height:auto">
+    </div>
+</div>
+
+
+@section Scripts{
+    <script>
+        document.getElementById('localeUtcOffset').value = new Date().getTimezoneOffset();
+    </script>
+
+    <script>
+        function openModal(imagePath) {
+            document.getElementById('myModal').style.display = 'block';
+            document.getElementById('modalImage').src = imagePath;
+        }
+
+        function closeModal() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+    </script>
+}
+
+<style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgb(0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.75);
+        padding-top: 60px;
+    }
+
+    .close {
+        position:absolute;
+        top: 15px;
+        right: 35px;
+        font-size: 30px;
+        font-weight: bold;
+        color: #fff;
+        cursor: pointer;
+    }
+</style>

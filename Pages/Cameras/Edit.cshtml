@@ -1,0 +1,187 @@
+﻿@page
+@model ParkingDemo.Pages.Cameras.EditModel
+@using ParkingDemo.Models
+@{
+    ViewData["Title"] = "Cameras";
+}
+
+<h1 class="display-5 mb-2">Edit Camera</h1>
+
+<hr />
+<div class="row">
+    <form method="post">
+        <input type="hidden" asp-for="ViewModel.Id" />
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Name" class="control-label"></label>
+                    <input asp-for="ViewModel.Name" class="form-control" />
+                    <span asp-validation-for="ViewModel.Name" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Index" class="control-label"></label>
+                    <input asp-for="ViewModel.Index" class="form-control" />
+                    <span asp-validation-for="ViewModel.Index" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.DeviceId" class="control-label"></label>
+                    <select asp-for="ViewModel.DeviceId" class="form-select"
+                            asp-items="@(new SelectList(Model.DevicesList, "Id", "Name", Model.ViewModel.DeviceId))">
+                    </select>
+                    <span asp-validation-for="ViewModel.DeviceId" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Resolution" class="control-label"></label>
+                    <select asp-for="ViewModel.Resolution" class="form-select" asp-items="@Html.GetEnumSelectList<ResolutionType>()">
+                    </select>
+                    <span asp-validation-for="ViewModel.Resolution" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+@*         <div id="zonesContainer">
+        </div> *@
+
+        <div id="zonesContainer">
+            @for (int i = 0; i < Model.ViewModel.Zones.Count; i++)
+            {
+                var zone = Model.ViewModel.Zones[i];
+                <div class="zone" id="zone@(i + 1)">
+                    <h4>Zone @(i + 1)</h4>
+                    <div class="inputs">
+                        <input type="text" name="ViewModel.Zones[@i].Name" placeholder="Zone Name" value="@zone.Name" />
+                        <input type="number" name="ViewModel.Zones[@i].X1" placeholder="X1" value="@zone.X1" />
+                        <input type="number" name="ViewModel.Zones[@i].Y1" placeholder="Y1" value="@zone.Y1" />
+                        <input type="number" name="ViewModel.Zones[@i].X2" placeholder="X2" value="@zone.X2" />
+                        <input type="number" name="ViewModel.Zones[@i].Y2" placeholder="Y2" value="@zone.Y2" />
+                        <input type="number" name="ViewModel.Zones[@i].X3" placeholder="X3" value="@zone.X3" />
+                        <input type="number" name="ViewModel.Zones[@i].Y3" placeholder="Y3" value="@zone.Y3" />
+                        <input type="number" name="ViewModel.Zones[@i].X4" placeholder="X4" value="@zone.X4" />
+                        <input type="number" name="ViewModel.Zones[@i].Y4" placeholder="Y4" value="@zone.Y4" />
+                    </div>
+                    <button type="button" class="btn btn-danger btn-sm remove-zone" data-zoneid="zone@(i + 1)">Remove</button>
+                </div>
+            }
+        </div>
+
+        <div class="form-group mt-2">
+            <input type="submit" value="UPDATE" class="btn btn-sm btn-primary" />
+            <a asp-page="Index" class="btn btn-sm btn-outline-primary ms-2">BACK TO LIST</a>
+            <button type="button" class="btn btn-sm btn-outline-primary ms-2" id="addZone">ADD ZONE</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            let zoneCounter = @Model.ViewModel.Zones.Count;
+
+            document.getElementById('addZone').addEventListener('click', function () {
+                const container = document.getElementById('zonesContainer');
+
+                const zoneDiv = document.createElement('div');
+                zoneDiv.id = `zone${zoneCounter + 1}`;
+                zoneDiv.className = 'zone';
+                zoneDiv.innerHTML = `
+                                        <h4>Zone ${zoneCounter + 1}</h4>
+                                        <div class="inputs">
+                                            <input type="text" name="ViewModel.Zones[${zoneCounter}].Name" placeholder="Zone Name" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].X1" placeholder="X1" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].Y1" placeholder="Y1" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].X2" placeholder="X2" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].Y2" placeholder="Y2" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].X3" placeholder="X3" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].Y3" placeholder="Y3" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].X4" placeholder="X4" />
+                                            <input type="number" name="ViewModel.Zones[${zoneCounter}].Y4" placeholder="Y4" />
+                                        </div>
+                                        <button type="button" class="btn btn-danger btn-sm remove-zone" data-zoneid="zone${zoneCounter + 1}">Remove</button>
+                                    `;
+                container.appendChild(zoneDiv);
+
+                // Increment zoneCounter
+                zoneCounter++;
+
+                // Attach remove functionality to the new zone
+                attachRemoveFunctionality();
+            });
+
+            function resetZoneCount() {
+                const zones = document.querySelectorAll('.zone');
+                zones.forEach((zone, index) => {
+                    zone.querySelector('h4').innerText = `Zone ${index + 1}`;
+                    const inputs = zone.querySelectorAll('input');
+                    inputs.forEach((input, idx) => {
+                        input.name = input.name.replace(/\[.*?\]/, `[${index}]`); 
+                    });
+                    const removeButton = zone.querySelector('.remove-zone');
+                    removeButton.setAttribute('data-zoneid', `zone${index + 1}`);
+                });
+            }
+
+            // Function to attach remove functionality to existing zones
+            function attachRemoveFunctionality() {
+                const removeButtons = document.querySelectorAll('.remove-zone');
+                removeButtons.forEach(button => {
+                    button.addEventListener('click', function () {
+                        const zoneId = this.getAttribute('data-zoneid');
+
+                        const zoneElement = document.getElementById(zoneId);
+
+                        if (zoneElement) {
+                            // Remove the zone from the DOM
+                            zoneElement.remove();
+                            resetZoneCount();
+                        }
+                    });
+                });
+            }
+
+            // Call the function to attach remove functionality to existing zones
+            attachRemoveFunctionality();
+        });
+    </script>
+
+    <style>
+        .zone {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+            .zone .inputs {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+
+                .zone .inputs input {
+                    width: 100px;
+                }
+
+            .zone h4 {
+                flex-basis: 100%;
+            }
+
+            .zone .remove-zone {
+                margin-top: 10px;
+            }
+    </style>
+}

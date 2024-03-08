@@ -1,0 +1,10 @@
+﻿@page
+@model ParkingDemo.Pages.Account.AccessDeniedModel
+@{
+}
+
+<div class="d-flex flex-column justify-content-center w-100" style="height:80vh">
+    <h1 class="display-2 text-center">Access Denied</h1>
+    <p class="lead text-center mb-0">You dont have permission to view this Page</p>
+    <p class="lead text-center text-danger">@System.Net.WebUtility.UrlDecode(@Request.Query["ReturnUrl"])</p>
+</div>

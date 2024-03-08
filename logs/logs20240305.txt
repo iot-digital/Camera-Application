@@ -1,0 +1,5 @@
+2024-03-05 14:53:11.086 +05:30 [ERR] An error occurred using the connection to database 'CameraDB' on server ''.
+2024-03-05 14:53:26.252 +05:30 [ERR] An error occurred using the connection to database 'CameraDB' on server ''.
+2024-03-05 14:53:33.812 +05:30 [ERR] An error occurred using the connection to database 'CameraDB' on server ''.
+2024-03-05 14:53:42.317 +05:30 [ERR] An error occurred using the connection to database 'CameraDB' on server ''.
+2024-03-05 14:53:48.839 +05:30 [ERR] An error occurred using the connection to database 'CameraDB' on server ''.

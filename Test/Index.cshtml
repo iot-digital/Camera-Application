@@ -1,0 +1,71 @@
+﻿@page
+@model ParkingDemo.Pages.Test.IndexModel
+
+@{
+    ViewData["Title"] = "TestPage";
+}
+
+<div class="container mt-5">
+    <h2>Image Viewer</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Content</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Sample Content 1</td>
+                <td><a href="#" onclick="openModal('@Model.ImagePath')">View Image</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div id="myModal" class="modal">
+    <div class="modal-content" style="margin:auto; display:block; width:80%; max-width:700px">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <img id="modalImage" src="" alt="Image" style="width:100%; height:auto">
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function openModal(imagePath) {
+            document.getElementById('myModal').style.display = 'block';
+            document.getElementById('modalImage').src = imagePath;
+        }
+
+        function closeModal() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+    </script>
+}
+
+
+<style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgb(0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.75);
+        padding-top: 60px;
+    }
+
+    .close {
+        position:absolute;
+        top: 15px;
+        right: 35px;
+        font-size: 30px;
+        font-weight: bold;
+        color: #fff;
+        cursor: pointer;
+    }
+</style>

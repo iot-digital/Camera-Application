@@ -1,0 +1,78 @@
+﻿@page
+@model ParkingDemo.Pages.Devices.ConfigureModel
+
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<h1 class="display-5 mb-2">Configuration</h1>
+
+<hr/>
+
+<div class="row">
+
+    <form method="post">
+        <input type="hidden" asp-for="ViewModel.Id" />
+
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.DeviceName" class="control-label"></label>
+                    <input asp-for="ViewModel.DeviceName" class="form-control" readonly="readonly" />
+                    @*<span asp-validation-for="ViewModel.DeviceName" class="text-danger form-validation-text"></span>*@
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Network" class="control-label"></label>
+                    <input asp-for="ViewModel.Network" class="form-control" />
+                    <span asp-validation-for="ViewModel.Network" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">            
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Node" class="control-label"></label>
+                    <input asp-for="ViewModel.Node" class="form-control" readonly="readonly" />
+                    @*<span asp-validation-for="ViewModel.Node" class="text-danger form-validation-text"></span>*@
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.TransmitInterval" class="control-label"></label>
+                    <input asp-for="ViewModel.TransmitInterval" class="form-control" />
+                    <span asp-validation-for="ViewModel.TransmitInterval" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">            
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.SSID" class="control-label"></label>
+                    <input asp-for="ViewModel.SSID" class="form-control" />
+                    <span asp-validation-for="ViewModel.SSID" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Password" class="control-label"></label>
+                    <input asp-for="ViewModel.Password" class="form-control" />
+                    <span asp-validation-for="ViewModel.Password" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group mt-2">
+            <input type="submit" value="UPDATE" class="btn btn-sm btn-primary" />
+            <a asp-page="Index" class="btn btn-sm btn-outline-primary ms-2">BACK TO LIST</a>
+        </div>
+
+    </form>
+
+</div>

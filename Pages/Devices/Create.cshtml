@@ -1,0 +1,65 @@
+﻿@page
+@model ParkingDemo.Pages.Devices.CreateModel
+@using ParkingDemo.Models
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<h1 class="display-5">Create Device</h1>
+<hr />
+<div class="row">
+    <form method="post">
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Name" class="control-label"></label>
+                    <input asp-for="ViewModel.Name" class="form-control" />
+                    <span asp-validation-for="ViewModel.Name" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Location" class="control-label"></label>
+                    <input asp-for="ViewModel.Location" class="form-control" />
+                    <span asp-validation-for="ViewModel.Location" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Network" class="control-label"></label>
+                    <input asp-for="ViewModel.Network" class="form-control" />
+                    <span asp-validation-for="ViewModel.Network" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.Node" class="control-label"></label>
+                    <input asp-for="ViewModel.Node" class="form-control" />
+                    <span asp-validation-for="ViewModel.Node" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <div class="form-group">
+                    <label asp-for="ViewModel.PowerInputType" class="control-label"></label>
+                    <select asp-for="ViewModel.PowerInputType" class="form-select" asp-items="@Html.GetEnumSelectList<PowerInputType>()">
+                    </select>
+                    <span asp-validation-for="ViewModel.Network" class="text-danger form-validation-text"></span>
+                </div>
+            </div>
+        </div>
+        <div class="form-group mt-2">
+            <input type="submit" value="CREATE" class="btn btn-sm btn-primary" />
+            <a asp-page="Index" class="btn btn-sm btn-outline-primary ms-2">BACK TO LIST</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

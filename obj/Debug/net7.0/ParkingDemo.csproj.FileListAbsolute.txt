@@ -1,0 +1,690 @@
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\nandhini.s\Desktop\C SHARP\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\nandhini.s\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ParkingDemo\ParkingDemo\ParkingDemo\ParkingDemo\obj\Debug\net7.0\ref\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\appsettings.Development.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\appsettings.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.exe
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.deps.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\ParkingDemo.pdb
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Humanizer.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Npgsql.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\bin\Debug\net7.0\System.CodeDom.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets.build.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\staticwebassets.development.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\refint\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.pdb
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.0\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\nandhini.s\Downloads\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Parking-Camera Application\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ref\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\appsettings.Development.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\appsettings.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.exe
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.deps.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\ParkingDemo.pdb
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Humanizer.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Npgsql.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\bin\Debug\net7.0\System.CodeDom.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets.build.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\staticwebassets.development.json
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\refint\ParkingDemo.dll
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.pdb
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+D:\GAYATHRI\PROJECTS\WEB APPLICATION\CAMERA _APPLICATION\Camera_v2.1\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\ASP.NET Projects\Projects\Camera-Application-parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\nandhini.s\Downloads\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ref\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.exe
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.deps.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.sourcelink.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.ParkingDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.build.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ParkingDemo.props
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\bundle\ParkingDemo.styles.css
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\scopedcss\projectbundle\ParkingDemo.bundle.scp.css
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\refint\ParkingDemo.dll
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.pdb
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ParkingDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Camera-Application\Camera-Application\Camera-Application-Parking\Camera-Application-parking\Camera-Application-parking\obj\Debug\net7.0\ref\ParkingDemo.dll
